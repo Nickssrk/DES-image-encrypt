@@ -1,0 +1,4 @@
+pillow
+pycryptodome
+numpy
+matplotlib
