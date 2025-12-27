@@ -40,3 +40,15 @@ echo "# Project Specific" >> .gitignore
 echo "test_images/" >> .gitignore
 echo "output/" >> .gitignore
 echo "*.log" >> .gitignore
+
+
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+
+
+*.pyd
+*.so
+*.dll
